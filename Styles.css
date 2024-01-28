@@ -1,0 +1,13 @@
+body{
+	background-color: #F7E7CE;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;	
+}
+
+h1{
+	font-family: "Century Gothic";
+	font-size: 200;
+	color: #550022;
+}

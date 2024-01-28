@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title> Curious Minds </title>
+		<title> Curious Mindss </title>
 		<link rel="icon" href="iconcm.png" type="image/png">
 		<link rel="stylesheet" href="Styles.css">
 		
